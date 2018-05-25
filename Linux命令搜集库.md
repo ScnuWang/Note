@@ -28,3 +28,23 @@
    > TIME   ：使用掉的CPU时间。
    >
    > CMD   ：所下达的是什么指令
+
+2. lsof -i:3306（端口名）
+
+   ​	COMMAND    PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+
+   ```
+   root@iZwz9fzs35shvq6yjcglx1Z:~# lsof -i:3306
+   COMMAND  PID  USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+   mysqld  5946 mysql   14u  IPv6 299475      0t0  TCP *:mysql (LISTEN)
+   root@iZwz9fzs35shvq6yjcglx1Z:~# lsof -i:80
+   COMMAND    PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+   AliYunDun  888 root   18u  IPv4  14128      0t0  TCP iZwz9fzs35shvq6yjcglx1Z:41028->106.11.68.13:http (CLOSE_WAIT)
+   AliYunDun  988 root   18u  IPv4  14128      0t0  TCP iZwz9fzs35shvq6yjcglx1Z:41028->106.11.68.13:http (CLOSE_WAIT)
+   AliYunDun  988 root   21u  IPv4  14866      0t0  TCP iZwz9fzs35shvq6yjcglx1Z:41046->106.11.68.13:http (ESTABLISHED)
+   nginx     5390 root    6u  IPv4 298969      0t0  TCP *:http (LISTEN)
+   nginx     5392  www    6u  IPv4 298969      0t0  TCP *:http (LISTEN)
+   
+   ```
+
+   > - FD：文件描述符，应用程序通过文件描述符识别该文件。
