@@ -12,3 +12,9 @@ date:  2018-6-5
 [极光VPN](https://play.google.com/store/apps/details?id=cn.jiguang.gp&hl=en_US)
 
 [XX-NET](https://github.com/XX-net/XX-Net)
+
+[shadowsocks](https://github.com/shadowsocks)
+
+[蓝灯](https://github.com/getlantern/lantern)
+
+https://github.com/shadowsocks/shadowsocks-windows
