@@ -19,7 +19,7 @@ date:  2018-6-5
 
 [蓝灯](https://github.com/getlantern/lantern)
 
-[购买服务器，自己搭建VPN](https://github.com/hwdsl2/setup-ipsec-vpn):支持IOS，Android，Windows
+[IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn):支持IOS，Android，Windows
 
 [OpenVPN](https://github.com/Nyr/openvpn-install)
 
