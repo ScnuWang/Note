@@ -16,5 +16,3 @@ date:  2018-6-5
 [shadowsocks](https://github.com/shadowsocks)
 
 [蓝灯](https://github.com/getlantern/lantern)
-
-https://github.com/shadowsocks/shadowsocks-windows
