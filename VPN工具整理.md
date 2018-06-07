@@ -5,9 +5,8 @@ grammar_cjkRuby: true
 date:  2018-6-5
 ---
 
-### Android
 
-[supervpn](https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN&hl=en_US)
+[SuperVPN](https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN&hl=en_US)
 
 [极光VPN](https://play.google.com/store/apps/details?id=cn.jiguang.gp&hl=en_US)
 
@@ -22,4 +21,6 @@ date:  2018-6-5
 [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn):支持IOS，Android，Windows
 
 [OpenVPN](https://github.com/Nyr/openvpn-install)
+
+[用VPS搭建SSR](https://blog.csdn.net/El_Paso/article/details/80349503)
 
