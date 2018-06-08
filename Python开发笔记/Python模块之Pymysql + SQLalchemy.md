@@ -5,7 +5,9 @@ grammar_cjkRuby: true
 date:  2018-6-6
 ---
 
-[SQlalchemy官方核心指南](http://docs.sqlalchemy.org/en/latest/core/tutorial.html)
+[SQlalchemy官方ORM指南](http://docs.sqlalchemy.org/en/latest/orm/tutorial.html)
+
+[SQlalchemy官方CORE指南](http://docs.sqlalchemy.org/en/latest/core/tutorial.html)
 
 ### 官方文档关键点
 
