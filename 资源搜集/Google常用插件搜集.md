@@ -15,8 +15,6 @@ Adblock plus：去掉广告
 
 Infinity新标签页
 	
-IDM Integration Module：顶替迅雷下载
-	
 Pop up blocker for Chrome- Poper Blocker：过滤弹出式广告
 
 QR二维码生成：可生成当前网页的二维码
