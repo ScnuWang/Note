@@ -1,5 +1,5 @@
 ---
-title: Conda常用命令
+title: Conda使用笔记
 tags: Conda
 grammar_cjkPython: true
 date:  2018-6-13
@@ -73,7 +73,7 @@ date:  2018-6-13
 	
 如果不能通过conda install来安装，文档中提到可以从Anaconda.org安装，但我觉得会更习惯用pip直接安装。pip在Anaconda中已安装好，不需要单独为每个环境安装pip。如需要用pip管理包，activate环境后直接使用即可。
 
-### Pycharm 不能识别通过conda 安装的包?
+### 四、Pycharm 不能识别通过conda 安装的包?
 
 设置Settings---> Project Interpreter为通过conda 新建的虚拟环境目录下的python.exe
 
