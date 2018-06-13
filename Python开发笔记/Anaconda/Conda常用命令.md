@@ -10,7 +10,7 @@ date:  2018-6-13
 
 	conda create --name D:\Cj_Scrapy
 	
-2. 指定Python版本
+2. 新建指定Python版本虚拟环境
 
-	conda create --name python = 2.7
-	conda create --name python = 3.6
+	conda create --name D:\Cj_Scrapy  python = 2.7
+	conda create --name D:\Cj_Scrapy  python = 3.6
