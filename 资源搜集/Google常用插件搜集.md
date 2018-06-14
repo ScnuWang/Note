@@ -26,5 +26,7 @@ Eagleget：下载工具，自动识别网页中可下载的视频，现在可以
 谷歌翻译：常用的反应软件
 
 Octotree：直接打开GitHub网站，左边树状目录阅读源码
+
+[listen1](https://github.com/listen1/listen1_chrome_extension)：可以搜索和播放来自网易云音乐，虾米，QQ音乐三个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。音质完美
 	
 
