@@ -4,7 +4,11 @@ tags: Google
 grammar_cjkPython: true
 date:  2018-6-11
 ---
+谷歌插件下载：
 
+-  https://www.crx4chrome.com
+-  https://www.chromefor.com
+-  http://chromecj.com
 
 油猴
 
