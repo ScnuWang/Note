@@ -8,6 +8,9 @@ date:  2018-6-7
 
 ### 一、商城主题：
 
+https://googlo.me/
+
+
 #### 基于 WooCommerce 的免费商城主题 WP Store
 
 - WP Store 在线预览：<https://8degreethemes.com/demo/wp-store/>
