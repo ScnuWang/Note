@@ -13,5 +13,12 @@ date:  2018-6-19
 启动项目：
 	python manage.py runserver
 	
+### Django知识点
+1. urls.py
+
+	2.X 使用的path,1.x 使用的版本是url
+
+	
 ### Python 知识点
+
 同一个目录，引用用.代替
