@@ -5,9 +5,12 @@ grammar_cjkPython: true
 date:  2018-6-19
 ---
 
+### 命令
 
 创建项目：
 	django-admin startproject project_name
 	
 启动项目：
 	python manage.py runserver
+	
+同一个目录，引用用.代替
