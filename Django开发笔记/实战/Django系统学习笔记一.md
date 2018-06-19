@@ -32,6 +32,7 @@ date:  2018-6-19
 		2.x 使用的path,正则表达式使用re_path;
 							
 		1.x 使用的版本是url，
+		
 2. 访问admin之前要先迁移数据库，否则会提示：no such table: django_session等
 
 	python manage.py makemigrations
