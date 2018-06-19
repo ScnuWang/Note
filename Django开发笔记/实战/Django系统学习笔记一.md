@@ -10,8 +10,19 @@ date:  2018-6-19
 创建项目：
 	django-admin startproject project_name
 	
+查看manage.py 有那些命令可用
+	python manage.py  help
+
 启动项目：
 	python manage.py runserver
+
+初始化数据库
+	python manage.py makemigrations
+	python manage.py migrate
+	
+创建超级管理员
+	python manage.py  createsuperuser
+
 	
 ### Django知识点
 1. urls.py
