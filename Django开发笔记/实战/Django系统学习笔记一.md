@@ -13,4 +13,5 @@ date:  2018-6-19
 启动项目：
 	python manage.py runserver
 	
+### Python 知识点
 同一个目录，引用用.代替
