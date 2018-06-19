@@ -16,12 +16,15 @@ date:  2018-6-19
 启动项目：
 	python manage.py runserver
 
-初始化数据库
+数据库迁移
 	python manage.py makemigrations
 	python manage.py migrate
 	
 创建超级管理员
 	python manage.py  createsuperuser
+	
+创建应用
+	python manage.py startapp app_name
 
 	
 ### Django知识点
