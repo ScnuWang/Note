@@ -1,6 +1,6 @@
 ---
 title: Django系统学习笔记一
-tags: 新建,模板,小书匠
+tags: Django
 grammar_cjkPython: true
 date:  2018-6-19
 ---
@@ -15,9 +15,18 @@ date:  2018-6-19
 	
 ### Django知识点
 1. urls.py
+	
+	访问路径配置：
+	
+		2.x 使用的path,正则表达式使用re_path;
+							
+		1.x 使用的版本是url，
+2. 访问admin之前要先迁移数据库，否则会提示：no such table: django_session等
 
-	2.X 使用的path,1.x 使用的版本是url
-
+	python manage.py makemigrations
+	
+	python manage.py migrate
+	
 	
 ### Python 知识点
 
