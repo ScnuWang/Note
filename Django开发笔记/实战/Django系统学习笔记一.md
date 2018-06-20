@@ -1,10 +1,3 @@
----
-title: Django系统学习笔记一
-tags: Django
-grammar_cjkPython: true
-date:  2018-6-19
----
-
 ### Django命令
 
 创建项目：
