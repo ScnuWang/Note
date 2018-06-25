@@ -23,7 +23,7 @@
 	python manage.py createcachetable
 	
 搜集静态文件
-	python manage.py collectsattic
+	python manage.py collectstatic
 
 	
 ### Django知识点
