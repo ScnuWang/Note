@@ -18,6 +18,9 @@
 	
 创建应用
 	python manage.py startapp app_name
+	
+创建缓存表
+	python manage.py createcachetable
 
 	
 ### Django知识点
