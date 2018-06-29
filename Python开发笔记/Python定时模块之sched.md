@@ -1,10 +1,3 @@
----
-title: Python定时模块之sched
-tags: python,定时
-grammar_cjkRuby: true
-date:  2018-6-5
----
-
 
 ### 一、sched模块 ----- 事件调度程序
 
