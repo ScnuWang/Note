@@ -1,12 +1,3 @@
----
-title: 对if __name__ == '__main__'的理解
-tags: python
-grammar_cjkRuby: true
-date:  2018-6-4
----
-
-
-
 学习来源：[请看这里的第一条评论](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431845183474e20ee7e7828b47f7b7607f2dc1e90dbb000#0)
 	
 一直没有理解到`if __name__ == '__main__'`的真正含义，今天看到这里算是说的比较清楚易懂的，为了巩固一下，所以摘抄下来。
