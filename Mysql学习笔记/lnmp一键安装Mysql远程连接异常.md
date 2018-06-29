@@ -1,11 +1,3 @@
----
-title: lnmp一键安装Mysql远程连接异常
-tags: MySQL, lnmp
-grammar_cjkPython: true
-date:  2018-6-7
----
-
-
 lnmp一键安装（默认禁止远程连接）
 
 1. 数据库表修改：
