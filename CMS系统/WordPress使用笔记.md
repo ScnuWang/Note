@@ -1,11 +1,3 @@
----
-title: WordPress使用笔记
-tags: WordPress
-grammar_cjkPython: true
-date:  2018-6-7
----
-
-
 1. 安装教程：
 2. https://www.cnblogs.com/bari/p/7825763.html
 3. https://www.jianshu.com/p/56750622cac9
