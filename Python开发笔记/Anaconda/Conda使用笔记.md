@@ -1,10 +1,3 @@
----
-title: Conda使用笔记
-tags: Conda
-grammar_cjkPython: true
-date:  2018-6-13
----
-
 ### 一、环境管理
 
 1. 新建虚拟环境
