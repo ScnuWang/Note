@@ -1,5 +1,3 @@
-
-
 ``` css
 /* 居中处理*/
 .home-content{
