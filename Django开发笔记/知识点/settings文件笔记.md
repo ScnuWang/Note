@@ -9,4 +9,8 @@ TIME_ZONE = 'Asia/Shanghai'
 ```
 
 ### 引用配置文件配置
+```python?linenums
+
 from  django.conf import settings
+
+```
