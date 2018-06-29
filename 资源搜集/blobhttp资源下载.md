@@ -1,10 +1,3 @@
----
-title: blobhttp资源下载
-tags: blobhttp
-grammar_cjkPython: true
-date:  2018-6-7
----
-
 
 记一次blob:http://资源的视频下载经历
 
