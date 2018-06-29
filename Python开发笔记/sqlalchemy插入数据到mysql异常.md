@@ -1,12 +1,3 @@
----
-title: sqlalchemy插入数据到mysql异常
-tags: sqlalchemy,mysql
-grammar_cjkRuby: true
-date:  2018-6-6
----
-
-
-
 ### 插入中文报错：
  
  在数据库名称后面添加?charset=utf8
