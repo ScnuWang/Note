@@ -1,10 +1,3 @@
----
-title: Python语言特点
-tags: python
-grammar_cjkRuby: true
-date:  2018-6-6
----
-
 Python作者：“龟叔”Guido van Rossum
 
 ### 语言特点
