@@ -1,10 +1,5 @@
----
-title: Mybatis笔记
-tags: Mybatis
-grammar_cjkPython: true
-date:  2018-6-14
----
-
+代码生成器：http://www.mybatis.org/generator/quickstart.html
+官方中文文档：http://www.mybatis.org/mybatis-3/zh/index.html
 
 ### 一、作用域和生命周期
 
