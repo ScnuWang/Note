@@ -21,3 +21,7 @@
 4. Mapper Instances
 
 	映射器接口的实例是从 SqlSession 中获得的。因此从技术层面讲，任何映射器实例的最大作用域是和请求它们的 SqlSession 相同的。映射器实例的最佳作用域是方法作用域。
+	
+	
+二、SqlProvider
+	通过代码的形式构建SQL语句
