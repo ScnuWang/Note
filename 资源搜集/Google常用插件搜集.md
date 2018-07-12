@@ -31,4 +31,6 @@ Octotree：直接打开GitHub网站，左边树状目录阅读源码
 
 [listen1](https://github.com/listen1/listen1_chrome_extension)：可以搜索和播放来自网易云音乐，虾米，QQ音乐三个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。音质完美
 	
+	
+Toggle JavaScript：这个插件可以帮助我们快速直观地检测网页里哪些信息是通过AJAX异步加载而来的
 
