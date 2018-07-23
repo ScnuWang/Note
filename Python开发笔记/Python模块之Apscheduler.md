@@ -1,4 +1,6 @@
-1. 安装
+[官方文档](https://apscheduler.readthedocs.io/en/v3.5.1/userguide.html)
+[API文档](http://apscheduler.readthedocs.io/en/latest/py-modindex.html)
+2. 1. 安装
 	通过anaconda安装，不知道为什么，默认的conda找不到apsscheduler库，可能是没有爬梯子的原因。
 	于是，使用国内镜像通道
 	
