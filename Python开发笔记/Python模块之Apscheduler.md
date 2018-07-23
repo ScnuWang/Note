@@ -22,7 +22,7 @@ def my_job():
 sched = BlockingScheduler()
 # 每过5秒打印一次Hello World！
 # 可以使用修饰器@sched.scheduled_job('interval', seconds=5)代替
-# interval 间隔调度（每隔多久执行）
+# interval 间隔调度（每隔多久执行）;cron 定时调度 ;date 定时调度（任务只会执行一次）
 sched.add_job(my_job, 'interval', seconds=5)
 sched.start()
 ```
