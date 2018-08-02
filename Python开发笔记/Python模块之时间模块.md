@@ -52,3 +52,17 @@ Tue Jun  5 14:45:25 2018
 '''
 ```
 
+二、datetime模块
+
+``` python?linenums
+from datetime import datetime
+
+print(datetime.now()) # 2018-08-02 15:21:46.118491
+print(datetime.now().date()) # 2018-08-02
+print(datetime.now().time()) # 15:21:46.118491
+print(datetime.now().timestamp()) # 1533194506.118491
+print(datetime.now().strftime('%Y-%m-%d %X')) # 2018-08-02 15:21:46
+
+# 时间戳转为时间
+print(datetime.fromtimestamp(datetime.now().timestamp())) # 2018-08-02 15:21:46.118491
+```
