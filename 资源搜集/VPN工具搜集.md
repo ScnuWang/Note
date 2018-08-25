@@ -1,3 +1,10 @@
+---
+title: VPN工具搜集
+tags: VPN
+grammar_cjkPython: true
+date:  2018-6-7
+---
+
 
 
 [SuperVPN](https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN&hl=en_US)
@@ -17,3 +24,5 @@
 [OpenVPN](https://github.com/Nyr/openvpn-install)
 
 [用VPS搭建SSR](https://blog.csdn.net/El_Paso/article/details/80349503)
+
+[Algo VPN](https://github.com/trailofbits/algo)
