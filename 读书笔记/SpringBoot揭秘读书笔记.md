@@ -11,6 +11,6 @@
 ### 1. 从入口下手
 
 使用过Springboot的都知道，SpringBoot的入口就是一个包含main函数的类。
-- 分析启动类DemoApplication的注解
+- 分析启动类DemoApplication的注解配置
 - 分析SpringBoot启动执行流程分析
 
